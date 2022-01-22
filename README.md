@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# Trick-Inc Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is maintained by [Dylan James](https://instagram.com/alazyartist).
 
-## Available Scripts
+## Trick-Inc
 
-In the project directory, you can run:
+Trick-Inc is a non-profit founded by Trickers that aims to uplift and enrich the lives of individuals through spreading the sport and art of Tricking. Creating opportunites for the members of the community that would allow them to focus on their passions and do their best work for society. Educating the public on the toolset that engaging with Tricking offers to the individual and how that extends beyond the domain of Tricking.
 
-### `npm start`
+## Mission
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Creating the environment and opportunities that will enrich the lives of individuals and allow them to be the best version of themselves in whatever they pursue.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Investing in and Developing Technologies to Enrich and Uplift the Movement Arts Communities
 
-### `npm test`
+## Vision
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To create a sustainable infrastructure for the Tricking Industry that would allow for individuals to make an impact through their work both in and outside of the Tricking culture.
 
-### `npm run build`
+## Values
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Tricking Comes First
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+All decisions should be made with the question in mind how does this affect Tricking? All decisions and projects should work towards the aim that it will spread an authentic version of the information and skills.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### For The Culture
 
-### `npm run eject`
+All projects should aim to enrich and expand the Tricking culture in a way that gives proper creedence to the past. Understanding where the culture has been will inform where it will go. Encouraging a growth of the culture through different types of projects and exploring new avenues that will push Tricking forward.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Empower Individuals
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The world is created and run by individuals with Ideas and resources. Our aim is to uplift individuals into oportunities whre they can realize their ideas by connecting them with the Teams and resources they require for success.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Collaboration
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Competition is good as long as its healthy, but that should always be accompanied by a degree of collaboration. A desire to push the field forward by sharing information with competion that will benefit to the community. This reinforces our Tricking comes first and For the Culture tenants.
 
-## Learn More
+### Break the Rules
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Encouraging projects that go counter to the “norm” of society. Trying to replace the consumerism with a communitas. Looking at the way things are currently run and trying to create a better version. Even if that means breaking the “rules” of that domain. (rules here being standards or “the way its always been”) . In short. “Do Better”
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Under Construction
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is currently under construction and will be coming soon.
